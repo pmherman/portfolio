@@ -1,8 +1,8 @@
-#Resumé
+# Resumé
 
 Paul Michael Herman
 
-![Link to Portfolio]
+! Link to Portfolio
 (http://paulmherman.com)
 
 
