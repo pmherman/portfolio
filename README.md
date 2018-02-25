@@ -2,8 +2,8 @@
 
 Paul Michael Herman
 
-! Link to Portfolio
-(http://paulmherman.com)
+# Link to Portfolio
+http://paulmherman.com
 
 
 
