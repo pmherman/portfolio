@@ -82,7 +82,7 @@ body {
 }
 
 .block-heading {
-	margin-bottom: 60px;
+	margin-bottom: 30px;
 }
 
 .block-heading p {
@@ -440,6 +440,10 @@ body {
 	color: #000000;
 	border: 1px solid white;
 	background-color: lightblue;
+}
+.tech {
+	height: 150px;
+	padding: 5px;
 }
 /* ///////////////////////////////////////////////////////////////////// 
 // Contact
