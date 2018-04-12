@@ -254,7 +254,7 @@ body {
 	box-shadow: 0 3px 1px 0 rgba(20, 20, 26, 0.55);
 	border-radius: 0;
 	font-size: 18px;
-	background-color: rgba(247, 255, 248, 1);
+	background-color: rgb(255, 247, 247);
 	padding: 16px 48px;
 }
 
@@ -333,8 +333,8 @@ body {
 
 .btn-view:hover {
 	color: #fff;
-	border: 1px solid lightseagreen;
-	background-color: rgba(32, 178, 170, 0.86);
+	border: 1px solid darkred;
+	background-color: red;
 }
 
 
@@ -438,8 +438,8 @@ body {
 }
 .resume:hover {
 	color: #000000;
-	border: 1px solid white;
-	background-color: lightblue;
+	border: 1px solid darkred;
+	background-color: lightcoral;
 }
 .tech {
 	height: 6em;
