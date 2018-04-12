@@ -209,7 +209,7 @@ body {
     /* font-family: 'Source Sans Pro', sans-serif; */
     /* font-family: 'Niconne', cursive; */
     font-weight: 400;
-    font-family: 'Rouge Script', cursive;
+    font-family: 'Forum', cursive;
     line-height: 90px;
     color: #fff;
     letter-spacing: 1px;
@@ -278,7 +278,7 @@ body {
 	font-weight: 400;
 	
     font-size: 55px;
-    font-family: 'Milonga', cursive;
+    font-family: 'Playball', cursive;
 }
 
 .portfolio-item img {
@@ -425,7 +425,7 @@ body {
 #resume .block-heading h1 {
     color: #fff;
 	
-    font-family: 'Milonga', cursive;
+    font-family: 'Playball', cursive;
 	font-weight: 400;
 	
     font-size: 55px;
@@ -458,7 +458,7 @@ body {
 #contact .block-heading h1
 {
 	color: #fff;
-	font-family: 'Milonga', cursive;
+	font-family: 'Playball', cursive;
 	font-weight: 400;
 	font-size: 55px;
 }
@@ -700,7 +700,7 @@ i.fa.fa-envelope-o {
 #aboutMe h1 {
 	color: #fff;
 	
-    font-family: 'Milonga', cursive;
+    font-family: 'Playball', cursive;
 	font-weight: 400;
 	
     font-size: 55px;
