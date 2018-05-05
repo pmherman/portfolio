@@ -100,7 +100,7 @@ body {
 
 #site-header {
 	position: fixed;
-	width: 100%;
+	width: 100vw;
 	/* background-color: #35405f; */
 	background-color: rgba(144, 146, 153, 0.94);
 	/* background-color: rgba(32, 178, 170, 0.86); */
@@ -291,6 +291,10 @@ body {
 
 .portfolio-item {
 	position: relative;
+}
+
+.portfolio-repo {
+	font-size: .8em;
 }
 
 /*////////////////////////////////////////////////////////////////////////
@@ -577,6 +581,12 @@ input[type="submit"]:hover {
 	padding: 10px 15px;
 	border: 1px solid #000000;
 	background-color: #000000;
+}
+
+.fullstack {
+	margin: 1em;
+	padding: 5px;
+	width: 12em;
 }
 
 .github-icon:hover {
