@@ -278,7 +278,7 @@ body {
 	font-weight: 400;
 	
     font-size: 55px;
-    font-family: 'Playball', cursive;
+    font-family: 'Kavivanar', cursive;
 }
 
 .portfolio-item img {
@@ -429,7 +429,7 @@ body {
 #resume .block-heading h1 {
     color: #fff;
 	
-    font-family: 'Playball', cursive;
+    font-family: 'Kavivanar', cursive;
 	font-weight: 400;
 	
     font-size: 55px;
@@ -462,7 +462,7 @@ body {
 #contact .block-heading h1
 {
 	color: #fff;
-	font-family: 'Playball', cursive;
+	font-family: 'Kavivanar', cursive;
 	font-weight: 400;
 	font-size: 55px;
 }
@@ -478,7 +478,6 @@ body {
     line-height: 36px;
     margin-top: 25px;
 }
-.
 .contact-info i {
     width: 40px;
 	height: 25px;
