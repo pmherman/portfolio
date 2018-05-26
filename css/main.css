@@ -582,15 +582,26 @@ input[type="submit"]:hover {
 	background-color: #000000;
 }
 
+.github-icon:hover {
+	background-color: transparent;
+	color: #fff;
+}
+
+.email-icon {
+	padding: 10px 15px;
+	border: 1px solid #36891c;
+	background-color: #36891c;
+}
+
+.email-icon:hover {
+	background-color: transparent;
+	color: #fff;
+}
+
 .fullstack {
 	margin: 1em;
 	padding: 5px;
 	width: 12em;
-}
-
-.github-icon:hover {
-	background-color: transparent;
-	color: #fff;
 }
 
 .linkedin-icon {
