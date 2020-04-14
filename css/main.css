@@ -264,6 +264,42 @@ body {
 	background-color: rgba(32, 36, 47, 0.94);
 }
 
+
+/*////////////////////////////////////////////////////////////////////////
+//  06 - Professional Projects
+///////////////////////////////////////////////////////////////////////*/
+
+#professional_project {
+	padding: 60px 0;
+}
+
+#professional_project .block-heading h1 {
+    color: white;
+	
+	font-weight: 400;
+	
+    font-size: 55px;
+    font-family: 'Kavivanar', cursive;
+}
+
+.professional_project-item img {
+	width: 100%;
+}
+
+.professional_project-items {
+	margin-bottom: 60px;
+}
+
+.professional_project-item {
+	position: relative;
+}
+
+.professional_project-repo {
+	font-size: .8em;
+}
+
+
+
 /*////////////////////////////////////////////////////////////////////////
 //  06 - Latest works
 ///////////////////////////////////////////////////////////////////////*/
